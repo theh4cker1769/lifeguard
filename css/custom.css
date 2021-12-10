@@ -1,0 +1,116 @@
+/* Header */
+
+.dope-nav-container {
+    position: fixed;
+    z-index: 1010;
+    width: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    background-color: #fffffff2;
+    padding: 5px 0;
+}
+
+.dope-navbar .nav-brand {
+    display: block;
+    margin: 0 auto;
+}
+
+
+/* Banner Section */
+
+.banner-section {
+    min-height: 800px;
+}
+
+.banner-section .banner-left h1 {
+    font-size: 45px;
+    margin-bottom: 10px;
+}
+
+
+/* Other */
+
+.price-section .single-price .top-wrap p {
+    font-size: 16px;
+    font-style: italic;
+    color: #f4f4f4;
+    margin-top: 5px;
+}
+
+.price-section .single-price .top-wrap i {
+    font-size: 62px;
+    margin-bottom: 30px;
+}
+
+.price-section .single-price .bottom-wrap p {
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.price-section .price-right .main {
+    text-align: center;
+}
+
+.download-section .dload-btn i {
+    margin-left: 10px;
+    font-size: 18px;
+}
+
+.dope-navbar .nav-brand {
+    padding: 10px;
+}
+
+
+/* Clients */
+
+.featured-section {
+    padding: 50px 0 0;
+}
+
+.featured-section h2 {
+    font-size: 42px;
+}
+
+
+/* Featured Section */
+
+.feature-section .heading-tag-feature {
+    text-align: center;
+}
+
+.feature-section .heading-tag-feature p {
+    margin-top: 20px;
+    font-size: 18px;
+    margin-bottom: 60px;
+}
+
+.feature-section.section-gap-full {
+    padding: 30px 0;
+}
+
+
+/* Contcat Section */
+
+.download-section.section-gap-full {
+    padding: 80px 0 50px;
+}
+
+.download-section .authno {
+    text-align: center;
+}
+
+
+/* Footer */
+
+.footer-section .footer-left img {
+    width: 200px;
+}
+
+.section-gap-half {
+    padding: 20px 0;
+}
+
+.footer-section .copyright-text {
+    text-align: right;
+}
