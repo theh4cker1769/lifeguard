@@ -20,7 +20,7 @@
 /* Banner Section */
 
 .banner-section {
-    min-height: 800px;
+    min-height: 950px;
 }
 
 .banner-section .banner-left h1 {
@@ -70,6 +70,20 @@
 
 .featured-section h2 {
     font-size: 42px;
+}
+
+.featured-section .single-logo img {
+    -webkit-filter: none;
+    filter: none;
+    opacity: 1;
+}
+
+.accredited {
+    text-align: center;
+}
+
+.accredited h2 {
+    margin: 20px 0 30px;
 }
 
 
