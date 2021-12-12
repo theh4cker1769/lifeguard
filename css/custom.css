@@ -89,6 +89,11 @@
 
 /* Featured Section */
 
+.feature-section {
+    padding: 80px 0;
+    background-color: #eeeeee;
+}
+
 .feature-section .heading-tag-feature {
     text-align: center;
 }
@@ -99,8 +104,8 @@
     margin-bottom: 60px;
 }
 
-.feature-section.section-gap-full {
-    padding: 30px 0;
+.featured-section .row {
+    border: none;
 }
 
 
@@ -114,6 +119,17 @@
     text-align: center;
 }
 
+.download-section .dload-btn {
+    text-align: center;
+}
+
+.download-section h4 {
+    font-weight: 400;
+    text-align: center;
+    color: #8c8d9e;
+    margin-top: 30px;
+}
+
 
 /* Footer */
 
@@ -121,10 +137,49 @@
     width: 200px;
 }
 
-.section-gap-half {
-    padding: 20px 0;
-}
-
 .footer-section .copyright-text {
     text-align: right;
+}
+
+.footer-section {
+    padding: 50px 0 40px;
+}
+
+.footer-section h5 {
+    color: #989561;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+
+/* Brand Section */
+
+.brand-section {
+    padding: 150px 0;
+    text-align: center;
+    background-color: #fff0dc;
+}
+
+.brand-section h1 {
+    margin-bottom: 20px;
+    color: #a09a6f;
+}
+
+
+/* Broker section */
+
+.broker-section {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #fff0dc;
+}
+
+.broker-section .primary-btn {
+    margin-top: 30px;
+}
+
+.broker-section .primary-btn i {
+    font-size: 18px;
+    margin-left: 6px;
 }

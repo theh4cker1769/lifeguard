@@ -1,14 +1,4 @@
 /*------------------------------------------------------------------
-Common Stylesheet
-
-Project:   Dope - Multipurpose Bootstrap4 Template
-Build:     Bootstrap 4 +
-Author:    F4H3M
-
--------------------------------------------------------------------*/
-
-
-/*------------------------------------------------------------------
 [Table of contents]
 
 1.  Common Styles
@@ -373,7 +363,7 @@ th {
     text-align: center;
     text-decoration: none;
     display: none;
-    background: #b0b192;
+    background: #ffa2b0;
     border-radius: 3px;
     -webkit-box-shadow: 0 2px 15px rgba(0, 0, 0, 0.25);
     box-shadow: 0 2px 15px rgba(0, 0, 0, 0.25);
@@ -390,9 +380,9 @@ th {
 .page-top-banner .overlay-bg,
 .banner-section .overlay-bg,
 .features-wrap .single-feature .overlay-bg {
-    background: -moz-linear-gradient(0deg, #5d5e4d 0%, #b0b192 100%);
-    background: -webkit-linear-gradient(0deg, #5d5e4d 0%, #b0b192 100%);
-    background: -ms-linear-gradient(0deg, #5d5e4d 0%, #b0b192 100%);
+    background: -moz-linear-gradient(0deg, #ff687f 0%, #ffa2b0 100%);
+    background: -webkit-linear-gradient(0deg, #ff687f 0%, #ffa2b0 100%);
+    background: -ms-linear-gradient(0deg, #ff687f 0%, #ffa2b0 100%);
 }
 
 .offwhite-bg {
@@ -402,7 +392,7 @@ th {
 .primary-btn {
     text-align: center;
     border-radius: 5px;
-    background: #b0b192;
+    background: #ffa2b0;
     padding: 15px 40px;
     font-weight: 400;
     min-width: 160px;
@@ -469,7 +459,7 @@ th {
     margin: -75px 0 0 -75px;
     border-radius: 50%;
     border: 3px solid transparent;
-    border-top-color: #b0b192;
+    border-top-color: #ffa2b0;
     -webkit-animation: spin 2s linear infinite;
     /* Chrome, Opera 15+, Safari 5+ */
     animation: spin 2s linear infinite;
@@ -486,7 +476,7 @@ th {
     bottom: 5px;
     border-radius: 50%;
     border: 3px solid transparent;
-    border-top-color: #5d5e4d;
+    border-top-color: #ff687f;
     -webkit-animation: spin 3s linear infinite;
     /* Chrome, Opera 15+, Safari 5+ */
     animation: spin 3s linear infinite;
@@ -1242,7 +1232,7 @@ th {
 }
 
 .breakpoint-on .dope-navbar .dope-menu {
-    background-color: #b0b192;
+    background-color: #ffa2b0;
     position: fixed;
     top: 0;
     left: -310px;
@@ -1471,7 +1461,7 @@ th {
 /* =================================== */
 
 .banner-section {
-    background-color: #b0b192;
+    background-color: #ffa2b0;
     background-size: cover;
     min-height: 950px;
 }
@@ -1713,7 +1703,7 @@ th {
 
 .features-wrap .single-feature span {
     font-size: 35px;
-    color: #b0b192;
+    color: #ffa2b0;
     padding-bottom: 25px;
     display: inline-block;
 }
@@ -1875,7 +1865,7 @@ th {
 }
 
 .service-section .owl-dots .owl-dot.active {
-    background: #b0b192;
+    background: #ffa2b0;
 }
 
 .service-section .owl-dots .owl-dot:focus {
@@ -1920,7 +1910,7 @@ th {
 }
 
 .skill-section .skill-left .prog_container .progress .progress-bar {
-    background-color: #b0b192;
+    background-color: #ffa2b0;
     height: 100%;
 }
 
@@ -1988,7 +1978,7 @@ th {
 
 .about-section .about-right .icon span {
     font-size: 40px;
-    color: #b0b192;
+    color: #ffa2b0;
 }
 
 .about-section .about-right .details p {
@@ -2148,7 +2138,7 @@ th {
 }
 
 .testimonial-section .owl-dots .owl-dot.active {
-    background: #b0b192;
+    background: #ffa2b0;
 }
 
 .testimonial-section .owl-dots .owl-dot:focus {
@@ -2486,7 +2476,7 @@ th {
 }
 
 .blog-lists-section .single-blog-post .tags li a {
-    color: #b0b192;
+    color: #ffa2b0;
     font-weight: 600;
     font-size: 14px;
 }
@@ -2525,7 +2515,7 @@ th {
 }
 
 .blog-lists-section .pagination .page-link:hover {
-    background: #b0b192;
+    background: #ffa2b0;
     color: #fff;
 }
 
@@ -2534,7 +2524,7 @@ th {
 }
 
 .blog-lists-section .pagination .active .page-link {
-    background: #b0b192;
+    background: #ffa2b0;
     color: #fff;
     border-color: transparent;
 }
@@ -2633,7 +2623,7 @@ th {
 }
 
 .blog-lists-section .social-widget li a:hover {
-    background: #b0b192;
+    background: #ffa2b0;
 }
 
 .blog-lists-section .archive-widget ul li {
@@ -2656,7 +2646,7 @@ th {
 }
 
 .blog-lists-section .archive-widget ul li a:hover {
-    color: #b0b192;
+    color: #ffa2b0;
 }
 
 .blog-lists-section .banner-widget {
@@ -2682,7 +2672,7 @@ th {
 }
 
 .blog-lists-section .tags-widget ul li a:hover {
-    background: #b0b192;
+    background: #ffa2b0;
 }
 
 .blog-details {
@@ -2730,7 +2720,7 @@ th {
 }
 
 .blog-details .tags li a {
-    color: #b0b192;
+    color: #ffa2b0;
     font-weight: 600;
     font-size: 14px;
 }
@@ -2753,7 +2743,7 @@ th {
 }
 
 .blog-details .blockquote {
-    border-left: 5px solid #b0b192;
+    border-left: 5px solid #ffa2b0;
     font-size: 14px;
     margin-bottom: 35px;
     margin-left: 20px;
@@ -2913,7 +2903,7 @@ th {
 }
 
 .team-section .owl-dots .owl-dot.active {
-    background: #b0b192;
+    background: #ffa2b0;
 }
 
 .team-section .owl-dots .owl-dot:focus {
@@ -2958,8 +2948,8 @@ th {
 
 .accordion>dt>a.active {
     color: #fff;
-    border-color: #b0b192;
-    background: #b0b192;
+    border-color: #ffa2b0;
+    background: #ffa2b0;
     cursor: default;
 }
 
@@ -3070,7 +3060,7 @@ th {
 
 .price-section .price-right .main {
     margin: -30px 0;
-    background: #b0b192;
+    background: #ffa2b0;
     color: #fff;
 }
 
@@ -3104,7 +3094,7 @@ th {
 .price-section .single-price i {
     position: relative;
     font-size: 40px;
-    color: #b0b192;
+    color: #ffa2b0;
 }
 
 .price-section .single-price h4 {
@@ -3217,7 +3207,7 @@ th {
 /* =================================== */
 
 .stat-section {
-    background: #b0b192;
+    background: #ffa2b0;
 }
 
 .stat-section h1,
@@ -3270,7 +3260,7 @@ th {
 
 .address-wrap .single-address-col i {
     font-size: 50px;
-    color: #b0b192;
+    color: #ffa2b0;
 }
 
 .address-wrap .single-address-col p {
@@ -3329,7 +3319,7 @@ th {
 }
 
 .form-row .success {
-    background: #b0b192;
+    background: #ffa2b0;
 }
 
 .contact-page-section {
@@ -3377,7 +3367,7 @@ th {
 }
 
 .footer-section .footer-menu li a:hover {
-    color: #b0b192;
+    color: #ffa2b0;
 }
 
 .footer-section .copyright-text {
@@ -3419,8 +3409,8 @@ th {
 }
 
 .footer-section #social li a:hover {
-    color: #b0b192;
-    border-color: #b0b192;
+    color: #ffa2b0;
+    border-color: #ffa2b0;
 }
 
 .footer-section .footer-cols h4 {
@@ -3456,5 +3446,5 @@ th {
 }
 
 .footer-section .footer-cols ul li a:hover {
-    color: #b0b192;
+    color: #ffa2b0;
 }
