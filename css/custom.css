@@ -133,16 +133,17 @@
 
 /* Footer */
 
+.footer-section {
+    padding: 50px 0 40px;
+    background: white;
+}
+
 .footer-section .footer-left img {
     width: 200px;
 }
 
 .footer-section .copyright-text {
     text-align: right;
-}
-
-.footer-section {
-    padding: 50px 0 40px;
 }
 
 .footer-section h5 {
